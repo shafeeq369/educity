@@ -33,6 +33,7 @@ const About = () => {
           pathway to achieve your goals and unlock your full potential in
           shaping the future of education.
         </p>
+        
       </div>
     </div>
   );

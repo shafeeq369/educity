@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Hero/Hero'
 import Programs from "././Components/Programs/Programs"
@@ -7,6 +7,7 @@ import About from './Components/About/About'
 import Campus from './Components/Campus/Campus';
 import Testimonial from './Components/Testimonials/Testimonial'
 import Contact from './Components/Contact/Contact'
+import Gsap1 from './Components/Gsap/Gsap1'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Testimonial />
       <Title subtitle='Contact us' title='Get in Touch'/>
       <Contact />
+      <Gsap1 />
       </div>
       
      </div>
